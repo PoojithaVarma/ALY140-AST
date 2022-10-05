@@ -1,10 +1,10 @@
 """
-<Project Title>
+<ASSIGNMENT 2>
 
 
 Copyright (c) 2022 -- This is the 2022 Summer version of the Template
 Licensed
-Written by <> <---- PLEASE, WRITE YOUR NAME HERE
+Written by <> <---- POOJITHA VARMA
 
 # you can also rely on the docstring documentation from pandas on how to format dosctrings:
 # https://pandas.pydata.org/pandas-docs/stable/development/contributing_docstring.html
